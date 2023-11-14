@@ -12,6 +12,8 @@ This portfolio is a basic website that uses Bootstrap to create a responsive and
 
 
 **Screenshots of Navigation Bar:
+![nav bar](https://github.com/ptak18/bootstrap-portfolio/assets/137077607/c0bfb8b1-8967-4b6c-9b7c-bb758ea4e9a1)
+
 
 
 ****Screenshots of Contact Me and About Me  Sections:
