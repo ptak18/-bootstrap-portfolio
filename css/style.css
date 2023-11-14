@@ -1,0 +1,112 @@
+:root {
+    /* Primary colors */
+    --primary-color: #007bff; 
+    --primary-color-light: #9ddfff; 
+    --primary-color-dark: #0056b3; 
+  
+    /* Secondary colors */
+    --secondary-color: #6c757d; 
+    --secondary-color-light: #b9c0c7; 
+    --secondary-color-dark: #455a64; 
+  
+    /* Text colors */
+    --text-color: #212529; 
+    --text-color-muted: #6c757d; 
+  
+    /* Background colors */
+    --background-color: #ffffff; 
+    --background-color-light: #f8f9fa; 
+    --background-color-dark: #e9ecef; 
+  
+    /* Other colors */
+    --accent-color: #f8f9fa; 
+    --danger-color: #dc3545; 
+    --success-color: #28a745; 
+  }
+
+  body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+  }
+  
+  .btn-primary {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+  }
+  
+  .h1 {
+    color: var(--primary-color-dark);
+  }
+  
+  .p {
+    color: var(--text-color);
+  }
+  
+  .card {
+    background-color: var(--background-color-light);
+  }
+  
+  .border {
+    border-color: var(--background-color-dark);
+  }
+  
+
+/* Reset Browser Defaults */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}  
+
+/* Reset heading styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.bg-colour {
+  background-color: var(--success-color) !important;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  min-height: 100px;
+  background-position: center;
+  background-repeat: no no-repeat;
+  background-size: cover;
+}
+
+
+
+.bg-colour .navbar-nav a {
+    background-color: var(--primary-color-dark);
+    color: var(--success-color);
+    margin-right: var(--danger-color)
+}
+
+
+.navbar-img {
+    width: 25%;
+
+}
+
+ .hero-img {
+border-radius: 50%;
+width: 25%;
+}
+
+
+
+
+.contact-links {
+    ul 
+        list-style: none;
+      }
+      
+      li {
+        display: inline-block;
+        margin-right: 10px; /* add spacing between items */
+      }
+
+
