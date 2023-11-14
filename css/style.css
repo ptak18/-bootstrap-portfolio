@@ -66,20 +66,14 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
-.bg-colour {
-  background-color: var(--success-color) !important;
-  display: flex;
-  justify-content: end;
-  align-items: center;
-  min-height: 100px;
-  background-position: center;
-  background-repeat: no no-repeat;
-  background-size: cover;
+.bg-color {
+  background-color: var(--secondary-color);
+  
 }
 
 
 
-.bg-colour .navbar-nav a {
+.bg-color.navbar-nav a {
     background-color: var(--primary-color-dark);
     color: var(--success-color);
     margin-right: var(--danger-color)
@@ -97,16 +91,13 @@ width: 25%;
 }
 
 
+.container {}
 
 
-.contact-links {
-    ul 
-        list-style: none;
-      }
-      
+
+ .contact-links 
+    
       li {
-        display: inline-block;
+        display: inline-block; 
         margin-right: 10px; /* add spacing between items */
       }
-
-
