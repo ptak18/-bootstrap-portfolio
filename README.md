@@ -3,7 +3,7 @@
 READ ME file that describes a portfolio created mainly using Bootstrap:
 
 *Bootstrap Portfolio
-This portfolio is a basic website that uses Bootstrap to create a responsive and mobile-friendly layout. It includes a main navigation bar, a hero section, a portfolio section, and a contact section. I then added the screenshots to the README.md files on GitHub by copying and pasting then commiting to the main branch.  
+This portfolio is a basic website that uses Bootstrap to create a responsive and mobile-friendly layout. It includes a main navigation bar, a hero section, a portfolio section, and a contact section. I then added the screenshots to the README.md files on GitHub by copying and pasting then commiting to the main branch all whilst using the git add git commit git pull and git push commannds on Git bash.  
 
 *Screenshots of Portfolio Sections: 
 
