@@ -8,7 +8,15 @@ This portfolio is a basic website that uses Bootstrap to create a responsive and
 *Screenshots of Portfolio Sections: 
 
 
+
+![Portfolio section](https://github.com/ptak18/bootstrap-portfolio/assets/137077607/e14d334f-95de-43b2-ba46-2d6926e73cf4)
+
+
+
 *Screenshots of Hero Sections:
+
+![hero section](https://github.com/ptak18/bootstrap-portfolio/assets/137077607/b93670e3-6b60-4cb3-a980-3404f7ad927b)
+
 
 
 **Screenshots of Navigation Bar:
@@ -17,6 +25,9 @@ This portfolio is a basic website that uses Bootstrap to create a responsive and
 
 
 ****Screenshots of Contact Me and About Me  Sections:
+
+
+![contact and about me section](https://github.com/ptak18/bootstrap-portfolio/assets/137077607/8859fa91-5d98-404b-8612-edef70af52e6)
 
 
 
